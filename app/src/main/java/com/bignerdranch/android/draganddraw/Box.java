@@ -9,6 +9,7 @@ import android.graphics.PointF;
  //This one really closes it for real
  //My bad its not closed its done
  //I don't even think comments are working
+ //Maybe theyll work now
 public class Box {
     private PointF mOrigin;
     private PointF mCurrent;
