@@ -6,7 +6,6 @@ import android.graphics.PointF;
  * Created by larrikin on 3/5/15.
  */
 
- //Maybe theyll work now
 public class Box {
     private PointF mOrigin;
     private PointF mCurrent;
