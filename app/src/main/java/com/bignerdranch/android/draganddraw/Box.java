@@ -5,7 +5,7 @@ import android.graphics.PointF;
 /**
  * Created by larrikin on 3/5/15.
  */
-
+//Check out the trigger
 public class Box {
     private PointF mOrigin;
     private PointF mCurrent;
