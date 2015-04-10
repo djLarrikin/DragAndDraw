@@ -10,6 +10,7 @@ import android.graphics.PointF;
 //Testing from inside Android studio
 //need that error
 //Lets try this new issue
+//same problem right
 public class Box {
     private PointF mOrigin;
     private PointF mCurrent;
