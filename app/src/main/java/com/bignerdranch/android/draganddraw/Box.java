@@ -5,10 +5,7 @@ import android.graphics.PointF;
 /**
  * Created by larrikin on 3/5/15.
  */
- //This comment fixes the jira test issue
- //This one really closes it for real
- //My bad its not closed its done
- //I don't even think comments are working
+
  //Maybe theyll work now
 public class Box {
     private PointF mOrigin;
